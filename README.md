@@ -1,5 +1,5 @@
 
-# Project Title
+# Notes-App
 
 This is a simple web application to take Notes and information, where user can sign up, sign in, add, remove or edit the Notes details.
 
